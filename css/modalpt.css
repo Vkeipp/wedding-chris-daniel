@@ -1,0 +1,17 @@
+#myImg {
+    display: block;
+    padding: 0;
+    margin: 0 0 10px 1%;
+    list-style: none;
+    min-height: 400px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;
+    clear: left;
+    position: relative;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    border-radius: 7px;
+}
