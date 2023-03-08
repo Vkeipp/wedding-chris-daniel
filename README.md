@@ -1,3 +1,4 @@
 # wedding-chris-daniel
 A wedding ceremony webpage for a new couple.
-IF Want to see the code please go to master branch.
+I have learned front-end skills for three months, and this project allow me to pratice my Javascript, HTML, CSS, Bootstrap, and RWD skills.
+If you want to see the code please go to the master branch.
